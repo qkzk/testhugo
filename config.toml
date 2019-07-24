@@ -1,4 +1,5 @@
-baseurl = "http://qkzk.github.io"
+#baseurl = "https://qkzk.github.io"
+baseurl = "/"
 title = "testhugo"
 
 theme = "hugo-coder"
